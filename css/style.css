@@ -1,0 +1,12 @@
+.text {
+    width: 200px;
+}
+/* .bg-carousel {
+    background-image: url('');
+} */
+.nav-item:first-child .nav-link{
+    color: red;
+}
+.nav-item:nth-child(2) .nav-link{
+    color:green;
+}
